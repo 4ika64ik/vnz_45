@@ -29,7 +29,7 @@ export default function Navbar() {
     <nav className="bg-tertiary-300 relative">
       <div className="container mx-auto max-w-[1344px]">
         <div className="h-16 md:h-20 p-5 md:py-6 lg:px-5 flex items-center justify-between z-20 bg-tertiary-300 relative">
-         <h2 className=" font-bold text-3xl text-green-900">Life Change EU</h2>
+         <h2 className=" font-bold text-3xl text-green-900">RESIDENCY BRIDGE</h2>
           {/* Hamburger */}
         </div>
 
