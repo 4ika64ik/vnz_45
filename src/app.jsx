@@ -14,7 +14,7 @@ export default function App() {
 
     // Инициализация пикселя Facebook
     ReactPixel.init('388751950664047', options);
-    ReactPixel.init('1094581028510610', options);
+    ReactPixel.init('1151163746085504', options);
 
     // Отслеживание события PageView при каждом изменении маршрута
     useEffect(() => {
